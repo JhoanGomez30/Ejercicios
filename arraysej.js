@@ -14,7 +14,7 @@ ordenar();
 console.log(array);
 
 //Ejercicio 2
-let cadena = "Hola mundo";
+let cadena = "Hola generation";
 
 console.log(cadena.length);
 
