@@ -30,7 +30,7 @@ console.log(charsAts("hola mundo", 0));
 function permiso(old){
     if(old < 18){
         let faltan = 18 - old ;
-        return console.log("No tienes la edad suficiente, te faltan "+ faltan + " años, \nlos cumpliras en " + (2024 + faltan));
+        return console.log("Estas muy pelado, te faltan "+ faltan + " años, \nlos cumpliras en " + (2024 + faltan));
     }else{
         return console.log("Puedes ingresar");
     }
