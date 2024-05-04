@@ -1,4 +1,4 @@
-/*
+
 let totalclick = 0;
 let click = document.getElementById("boton-clicks")
 
@@ -12,11 +12,11 @@ function contarClicks(){
     );
 }
 
-contarClicks()*/
+contarClicks()
 
-// button.addEventListener("click", (event) => {
-//     button.textContent = `Click count: ${event.detail}`;
-//   });
+button.addEventListener("click", (event) => {
+    button.textContent = `Click count: ${event.detail}`;
+});
 
 //RETO 2
 
