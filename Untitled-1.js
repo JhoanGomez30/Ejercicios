@@ -94,3 +94,5 @@ else if(edad < 16){
 }else if (edad > 18){
     console.log("Puede ingresar");
 }
+
+
